@@ -1,0 +1,92 @@
+Клиент: Евгений, 
+ Электронная почта: 3374555@gmail.com 
+ Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===========================================================================
+
+
+Клиент: Юлия, 
+ Электронная почта: tor 
+ Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===========================================================================
+
+
+Клиент: Юлия, 
+ Электронная почта: 123@mail.ru 
+ Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===========================================================================
+
+
+Клиент: Фндрей, 
+ Электронная почта: 51313211321231@mail.ru 
+ Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===========================================================================
+
+
+Клиент: Евгений 
+Электронная почта: 3374555@gmail.com 
+Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===================================================================================================
+
+
+Клиент: admin 
+Электронная почта: 3374555@gmail.com 
+Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===================================================================================================
+
+
+Клиент: admin 
+Электронная почта: 3374555@gmail.com 
+Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===================================================================================================
+
+
+Клиент: admin 
+Электронная почта: 3374555@gmail.com 
+Сообщение: 
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales consectetur justo, vitae sollicitudin eros viverra vel. Nam gravida ante quis sollicitudin fringilla. Ut gravida varius leo quis venenatis. Donec in ultricies augue. Praesent malesuada nisl nec elit cursus sodales. Quisque id volutpat tellus. Integer a ornare ex. Quisque laoreet tortor eget ipsum faucibus fringilla. Fusce ex orci, vulputate at velit et, sodales auctor urna. Quisque tincidunt, risus et finibus convallis, odio turpis ultricies massa, sed sodales lacus leo iaculis ipsum.
+
+Morbi blandit porttitor tincidunt. Donec scelerisque arcu sed lacus mollis, eget interdum risus dictum. Phasellus et pretium mi. Vivamus sed justo dolor. In magna eros, dignissim sit amet congue a, sodales in justo. In ullamcorper accumsan quam, vel mollis massa bibendum iaculis. Nunc eget magna et nunc iaculis facilisis et sit amet erat. Etiam sodales nunc id commodo fermentum. Suspendisse potenti. Morbi nisi orci, pretium ut nisl in, facilisis posuere ex. Praesent risus arcu, fringilla vitae ligula eget, consequat mattis mauris. Morbi egestas gravida congue. Quisque nec nibh quis magna porttitor venenatis. Pellentesque faucibus nibh dui, sit amet rhoncus enim lobortis eget.
+
+Quisque vulputate est elit, a lacinia nibh auctor vel. Vivamus ullamcorper risus nunc, eget venenatis elit luctus in. Pellentesque a justo et neque aliquet tristique. Vivamus maximus arcu dignissim, mollis nisi in, condimentum nibh. Suspendisse luctus auctor semper. Suspendisse potenti. Duis viverra, risus ut vehicula placerat, ante enim posuere tortor, ut iaculis lectus lectus id eros. Nunc quis nunc nunc. Duis pharetra sodales nibh, sed sollicitudin tortor convallis vitae. Nunc vel sapien sit amet nisl commodo sodales. Curabitur non dapibus nibh.
+ ===================================================================================================
+
+
