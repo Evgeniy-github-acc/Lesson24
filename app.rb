@@ -35,8 +35,6 @@ end
 post '/login/attempt' do
 	session[:identity] = params['username']
 	session[:password] = params['password']
-	@pas = session[:password]
-	@us = session[:identity]
 	where_user_came_from = session[:previous_url] || '/'
 	redirect to where_user_came_from
 end
