@@ -1,6 +1,9 @@
 require 'rubygems'
+require 'bundler/setup'
+require 'pony'
 require 'sinatra'
 require 'sinatra/reloader'
+
 
 configure do
 	enable :sessions
@@ -81,12 +84,20 @@ post '/contacts' do
 	@client = params[:username]
 	@email = params[:email]
 	@mail = params[:mail]
-	f = File.open './public/contacts.txt', 'a'
-	f.write "Клиент: #{@client} \nЭлектронная почта: #{@email} \nСообщение: \n  #{@mail}\n ===================================================================================================\n\n\n"
-	f.close
-	@message = "Уважаемый #{@client}, благодарим за обратную связь! Ваше обращение будет обработано в ближайшее время!"
-	@title = "Сообщение отправлено!"
-	erb :message
+	
+        Pony.mail(:to => '3374555@mail.ru', :from => "#{@email}", :subject => "Сообщение от #{@client}", :body => "#{@mail}",   :via_options => {
+			:address              => 'smtp.gmail.com',
+			:port                 => '587',
+			:enable_starttls_auto => true,
+			:user_name            => 'eo0065110@gmail.com',
+			:password             => 'eo0065110_google',
+			:authentication       => :plain, # :plain, :login, :cram_md5, no auth by default
+			:domain               => "localhost.localdomain" # the HELO domain provided by the client to the server
+		  })
+	@title = "Успешно!"
+	@message = "Ваше сообщение отправлено и будет обработано в ближайшее время!"
+	erb :message	  
+
 end 
 
 
