@@ -21,9 +21,9 @@
   <div class="form-group">
     <label>Кто Ваш мастер</label>
     <select name="barber" class="form-control">
-      <option>Walter White</option>
-      <option>Jessie Pinkman</option>
-      <option>Gus Fring</option>
+      <option <%= @barber == 'Walter White' ? 'selected' : ''%>>Walter White</option>
+      <option <%= @barber == 'Jessie Pinkman' ? 'selected' : ''%>>Jessie Pinkman</option>
+      <option <%= @barber == 'Gus Fring' ? 'selected' : ''%>>Gus Fring</option>
     </select>
   </div>
 
