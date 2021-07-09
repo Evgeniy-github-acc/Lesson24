@@ -8,7 +8,9 @@ require 'sinatra/reloader'
 
 
 def get_db
-	return SQLite3::Database.new './public/barbershop.db'
+	db = SQLite3::Database.new './public/barbershop.db'
+	db.results_as_hash = true
+	return db
 end
 
 configure do
@@ -47,8 +49,10 @@ before '/secure/*' do
 end
 
 get '/secure/place' do
-	@input = File.read './public/users.txt'
-	erb '<%= @input %>'
+	db = get_db
+	@result = db.execute 'select * from Users order by id desc' 
+	db.close
+	erb :'/secure/place'
 end
 
 post '/login/attempt' do
@@ -106,12 +110,9 @@ post '/visit' do
 			Color	
 		)
 		values (?,?,?,?,?)', [@client, @phone, @datetime, @barber, @color] 
-
-		
-		
-		
-		
+				
 		erb "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
+
 	else
 		return erb :visit
 	end
