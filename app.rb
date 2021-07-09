@@ -11,12 +11,15 @@ end
 
 helpers do
 	def username
-	  session[:identity] ? session[:identity] : 'Вход для Администрации'
-	end
+		if   session[:identity] == 'admin' && session[:password] == 'secret'
+			"Вход выполнен"
+		else
+			"Выполните вход"
+		end	
 end
 
 before '/secure/*' do
-	unless session[:identity] == '123' && session[:password] == '123' 
+	unless session[:identity] == 'admin' && session[:password] == 'secret' 
 	  session[:previous_url] = request.path
 	  @error = 'Извините, просмотр служебной информации только для администрации'
 	  halt erb(:login_form)
