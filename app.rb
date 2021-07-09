@@ -6,10 +6,15 @@ require 'sinatra'
 require 'sinatra/reloader'
 
 
+
+def get_db
+	return SQLite3::Database.new './public/barbershop.db'
+end
+
 configure do
 	enable :sessions
-	@db = SQLite3::Database.new './public/barbershop.db'
-	@db.execute 'CREATE TABLE IF NOT EXISTS "Users"
+	db = get_db
+	db.execute 'CREATE TABLE IF NOT EXISTS "Users"
 	(
 		"Id" INTEGER PRIMARY KEY AUTOINCREMENT,
 		"Name" TEXT,
@@ -80,6 +85,7 @@ post '/visit' do
 	@phone = params[:phone]
 	@datetime = params[:datetime]
 	@barber = params[:barber]
+	@color = nil
 
 	hash = {	:username => 'Введите имя',
 				:phone => 'Введите номер телефона',
@@ -89,9 +95,22 @@ post '/visit' do
 	@error = hash.select {|key,_| params[key]==""}.values.join(", ")
 	
 	if @error == ''
-		f = File.open './public/users.txt', 'a'
-		f.write "Клиент: #{@client}, номер телефона: #{@phone}, время: #{@datetime}, мастер  #{@barber}\n"
-		f.close
+		db = get_db
+		db.execute 'insert into
+		Users
+		(
+			Name, 
+			Phone,
+			DateStamp,
+			Barber,
+			Color	
+		)
+		values (?,?,?,?,?)', [@client, @phone, @datetime, @barber, @color] 
+
+		
+		
+		
+		
 		erb "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
 	else
 		return erb :visit
