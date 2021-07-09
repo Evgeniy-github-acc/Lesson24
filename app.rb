@@ -81,13 +81,11 @@ post '/visit' do
 		f = File.open './public/users.txt', 'a'
 		f.write "Клиент: #{@client}, номер телефона: #{@phone}, время: #{@datetime}, мастер  #{@barber}\n"
 		f.close
-		@message = "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
-		@title = "Спасибо!"
-		erb :message
+		erb "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
 	else
 		return erb :visit
 	end
-	
+end	
 
 	
 
