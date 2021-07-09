@@ -66,13 +66,29 @@ post '/visit' do
 	@phone = params[:phone]
 	@datetime = params[:datetime]
 	@barber = params[:barber]
-	f = File.open './public/users.txt', 'a'
-	f.write "Клиент: #{@client}, номер телефона: #{@phone}, время: #{@datetime}, мастер  #{@barber}\n"
-	f.close
-	@message = "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
-	@title = "Спасибо!"
-	erb :message
-end
+
+	hash = {	:username => 'Введите имя',
+				:phone => 'Введите номер телефона',
+				:datetime => 'Введите дату и время',
+	}
+
+	@error = hash.select {|key,_| params[key]==""}.values.join(", ")
+	
+	if @error == ''
+		f = File.open './public/users.txt', 'a'
+		f.write "Клиент: #{@client}, номер телефона: #{@phone}, время: #{@datetime}, мастер  #{@barber}\n"
+		f.close
+		@message = "Уважаемый #{@client}, #{@barber} будет ждать Вас #{@datetime}"
+		@title = "Спасибо!"
+		erb :message
+	else
+		return erb :visit
+	end
+	
+
+	
+
+	end
 
 get '/contacts' do
 	erb :contacts
