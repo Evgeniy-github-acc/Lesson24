@@ -20,12 +20,15 @@
 
   <div class="form-group">
     <label>Кто Ваш мастер</label>
+    
+
     <select name="barber" class="form-control">
-      <option <%= @barber == 'Walter White' ? 'selected' : ''%>>Walter White</option>
-      <option <%= @barber == 'Jessie Pinkman' ? 'selected' : ''%>>Jessie Pinkman</option>
-      <option <%= @barber == 'Gus Fring' ? 'selected' : ''%>>Gus Fring</option>
-    </select>
-  </div>
+    
+    <% @select_from_barbers.each do |i| %> 
+      <option <%= @barber == i['Name'] ? 'selected' : ''%>> <%= i['Name']%> </option>
+      <% end %>
+     </select>
+      </div>
 
   <button type="submit" class="btn btn-primary">Записаться</button>
 

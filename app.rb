@@ -34,7 +34,7 @@ configure do
 	)'
 	
 #	db.close
-		barbers = ["Walter White", 'Jessie Pinkman', 'Gus Fring', 'Иван Петров', 'Fredie', 'Анна Васильева']
+	barbers = ["Walter White", 'Jessie Pinkman', 'Gus Fring', 'Иван Петров', 'Fredie', 'Анна Васильева']
 
 	barbers.each do |i|
 		db.execute "INSERT INTO Barbers(Name) 
@@ -100,11 +100,15 @@ get '/about' do
 end
 
 get '/visit' do
+	db  = get_db
+	@select_from_barbers = db.execute 'select Name from  Barbers'
 	erb :visit
 end
 
 post '/visit' do
-	@client = params[:username]
+	db  = get_db
+	@select_from_barbers = db.execute 'select Name from  Barbers'
+		@client = params[:username]
 	@phone = params[:phone]
 	@datetime = params[:datetime]
 	@barber = params[:barber]
