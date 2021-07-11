@@ -13,6 +13,10 @@ def get_db
 	return db
 end
 
+def 
+
+end
+
 configure do
 	enable :sessions
 	db = get_db
@@ -25,6 +29,22 @@ configure do
 		"Barber" TEXT,
 		"Color" TEXT
 	)'
+		
+	
+	db.execute 'CREATE TABLE IF NOT EXISTS "Barbers"
+	(
+		"Id" INTEGER PRIMARY KEY AUTOINCREMENT,
+		"Name" TEXT UNIQUE
+	)'
+	
+#	db.close
+db.execute 'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Walter White");'
+db.execute	'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Jessie Pinkman");'
+db.execute	'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Gus Fring");'
+	
+	#db.close
+
+
 end
 
 helpers do
