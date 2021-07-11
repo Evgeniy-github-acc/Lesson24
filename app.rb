@@ -13,10 +13,6 @@ def get_db
 	return db
 end
 
-def 
-
-end
-
 configure do
 	enable :sessions
 	db = get_db
@@ -38,12 +34,15 @@ configure do
 	)'
 	
 #	db.close
-db.execute 'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Walter White");'
-db.execute	'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Jessie Pinkman");'
-db.execute	'INSERT OR IGNORE INTO Barbers (Name) VALUES ("Gus Fring");'
-	
-	#db.close
+		barbers = ["Walter White", 'Jessie Pinkman', 'Gus Fring', 'Иван Петров', 'Fredie', 'Анна Васильева']
 
+	barbers.each do |i|
+		db.execute "INSERT INTO Barbers(Name) 
+				SELECT  '#{i}' 
+				WHERE NOT EXISTS(SELECT Name FROM Barbers WHERE Name = '#{i}'
+				)"
+	end
+	
 
 end
 
